@@ -1,0 +1,22 @@
+# Notebook/runtime caches
+.ipynb_checkpoints/
+__pycache__/
+
+# Local data and generated artifacts
+data/
+outputs/
+results/
+checkpoints/
+models/
+
+# Model weights and experiment dumps
+*.ckpt
+*.h5
+*.hdf5
+*.pth
+*.pt
+
+# Local environment files
+.env
+.venv/
+venv/
